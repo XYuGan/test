@@ -39,7 +39,7 @@ public class RandomWorldDemo {
         switch (tileNum) {
             case 0: return Tileset.WALL;
             case 1: return Tileset.FLOWER;
-            case 2: return Tileset.NOTHING;
+            case 2: return Tileset.SAND;
             default: return Tileset.NOTHING;
         }
     }

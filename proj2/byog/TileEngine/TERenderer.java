@@ -98,4 +98,6 @@ public class TERenderer {
         }
         StdDraw.show();
     }
+
+
 }
